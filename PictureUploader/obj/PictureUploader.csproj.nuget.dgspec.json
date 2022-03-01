@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mshaffer-surfacebook\\OneDrive\\Repos\\Performance-Engineering-Project\\PictureUploader\\PictureUploader.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mshaffer-surfacebook\\OneDrive\\Repos\\Performance-Engineering-Project\\PictureUploader\\PictureUploader.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mshaffer-surfacebook\\OneDrive\\Repos\\Performance-Engineering-Project\\PictureUploader\\PictureUploader.csproj",
+        "projectName": "PictureUploader",
+        "projectPath": "C:\\Users\\mshaffer-surfacebook\\OneDrive\\Repos\\Performance-Engineering-Project\\PictureUploader\\PictureUploader.csproj",
+        "packagesPath": "C:\\Users\\mshaffer-surfacebook\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mshaffer-surfacebook\\OneDrive\\Repos\\Performance-Engineering-Project\\PictureUploader\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mshaffer-surfacebook\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

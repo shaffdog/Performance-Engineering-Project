@@ -1,0 +1,17 @@
+C:\Users\mshaffer-surfacebook\OneDrive\Repos\Performance-Engineering-Project\PictureUploader\bin\Debug\net6.0\PictureUploader.exe
+C:\Users\mshaffer-surfacebook\OneDrive\Repos\Performance-Engineering-Project\PictureUploader\bin\Debug\net6.0\PictureUploader.deps.json
+C:\Users\mshaffer-surfacebook\OneDrive\Repos\Performance-Engineering-Project\PictureUploader\bin\Debug\net6.0\PictureUploader.runtimeconfig.json
+C:\Users\mshaffer-surfacebook\OneDrive\Repos\Performance-Engineering-Project\PictureUploader\bin\Debug\net6.0\PictureUploader.dll
+C:\Users\mshaffer-surfacebook\OneDrive\Repos\Performance-Engineering-Project\PictureUploader\bin\Debug\net6.0\ref\PictureUploader.dll
+C:\Users\mshaffer-surfacebook\OneDrive\Repos\Performance-Engineering-Project\PictureUploader\bin\Debug\net6.0\PictureUploader.pdb
+C:\Users\mshaffer-surfacebook\OneDrive\Repos\Performance-Engineering-Project\PictureUploader\obj\Debug\net6.0\PictureUploader.csproj.AssemblyReference.cache
+C:\Users\mshaffer-surfacebook\OneDrive\Repos\Performance-Engineering-Project\PictureUploader\obj\Debug\net6.0\PictureUploader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mshaffer-surfacebook\OneDrive\Repos\Performance-Engineering-Project\PictureUploader\obj\Debug\net6.0\PictureUploader.AssemblyInfoInputs.cache
+C:\Users\mshaffer-surfacebook\OneDrive\Repos\Performance-Engineering-Project\PictureUploader\obj\Debug\net6.0\PictureUploader.AssemblyInfo.cs
+C:\Users\mshaffer-surfacebook\OneDrive\Repos\Performance-Engineering-Project\PictureUploader\obj\Debug\net6.0\PictureUploader.csproj.CoreCompileInputs.cache
+C:\Users\mshaffer-surfacebook\OneDrive\Repos\Performance-Engineering-Project\PictureUploader\obj\Debug\net6.0\PictureUploader.dll
+C:\Users\mshaffer-surfacebook\OneDrive\Repos\Performance-Engineering-Project\PictureUploader\obj\Debug\net6.0\ref\PictureUploader.dll
+C:\Users\mshaffer-surfacebook\OneDrive\Repos\Performance-Engineering-Project\PictureUploader\obj\Debug\net6.0\PictureUploader.pdb
+C:\Users\mshaffer-surfacebook\OneDrive\Repos\Performance-Engineering-Project\PictureUploader\obj\Debug\net6.0\PictureUploader.genruntimeconfig.cache
+C:\Users\mshaffer-surfacebook\OneDrive\Repos\Performance-Engineering-Project\PictureUploader\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mshaffer-surfacebook\OneDrive\Repos\Performance-Engineering-Project\PictureUploader\obj\Debug\net6.0\PictureUploader.csproj.CopyComplete
