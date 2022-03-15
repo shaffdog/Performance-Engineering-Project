@@ -3,3 +3,23 @@
 # Manually managing azure-functions-worker may cause unexpected issues
 
 azure-functions
+dataclasses
+pixellib
+pillow
+psutil
+requests
+#git+git://github.com/ericvsmith/dataclasses@0.8#dataclasses
+# dataclasses==0.8.0
+#-f https://download.pytorch.org/whl/torch_stable.html
+# numpy==1.15.4    
+# -f https://download.pytorch.org/whl/torch_stable.html
+# torch==1.5.0+cpu
+#torchvision==0.6.0+cputorchvision==0.5.0
+# pytorch
+# time
+numpy
+torch
+torchvision
+uuid
+pathlib
+azure.cosmos
